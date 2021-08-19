@@ -5,6 +5,7 @@ Hey there. Nothing really to see here, just testing some stuff.
 <img src="/pink.png">
 
 This package provides an easy way stop submission spam via Akismet.
+Check out the [docs](DOCUMENTATION.md).
 
 ## Requirements
 
