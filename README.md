@@ -51,3 +51,9 @@ AKISMET_API_KEY=your-key-here
   sup
 {{ /if }}
 ```
+
+```
+{{ if @{tag:here} }}
+  sup
+{{ /if }}
+```
