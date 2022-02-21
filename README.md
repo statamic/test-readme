@@ -42,3 +42,12 @@ Set your Akismet API Key in your `.env` file. You can get it from: https://akism
 ```yaml
 AKISMET_API_KEY=your-key-here
 ```
+
+
+### Code Example
+
+```
+{{ if {tag:here} }}
+  sup
+{{ /if }}
+```
